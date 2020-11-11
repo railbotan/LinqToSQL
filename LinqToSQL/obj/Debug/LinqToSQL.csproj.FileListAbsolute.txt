@@ -1,0 +1,6 @@
+C:\Users\dmitr\RiderProjects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.exe
+C:\Users\dmitr\RiderProjects\LinqToSQL\LinqToSQL\bin\Debug\LinqToSQL.pdb
+C:\Users\dmitr\RiderProjects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csprojAssemblyReference.cache
+C:\Users\dmitr\RiderProjects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\RiderProjects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.exe
+C:\Users\dmitr\RiderProjects\LinqToSQL\LinqToSQL\obj\Debug\LinqToSQL.pdb
